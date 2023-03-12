@@ -1,4 +1,9 @@
 Language: **English** [简体中文](./cn_README.md)
+
+### Google Colab
+
+**Training Notebook (ENG)**: <a href="https://colab.research.google.com/github/justinjohn0306/DDSP-SVC/blob/main/DDSP_SVC.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
+
 # DDSP-SVC
 <div align="center">
 <img src="https://storage.googleapis.com/ddsp/github_images/ddsp_logo.png" width="200px" alt="logo"></img>
